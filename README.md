@@ -10,6 +10,15 @@ I created this interactive Power BI dashboard to analyse customer churn patterns
 
 I analysed churn across different customer characteristics, including contract type, internet service, tenure and satisfaction score.
 
+## Project Process
+
+I created this project by first generating a simulated customer dataset in Microsoft Excel containing 1,000 customer records. I then imported the dataset into Power BI and checked the data types to make sure the information could be analysed correctly.
+
+I used DAX to create calculations for the churn rate and average monthly charge. I also created a tenure group to analyse churn across different customer tenure periods.
+
+I then created interactive charts and slicers to analyse churn across contract type, internet service, tenure and satisfaction score. Finally, I designed the dashboard and used the results to identify patterns within the simulated dataset.
+
+
 ## Tools Used
 
 * Microsoft Power BI
