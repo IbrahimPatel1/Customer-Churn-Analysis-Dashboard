@@ -3,6 +3,15 @@
 
 <img width="1305" height="707" alt="image" src="https://github.com/user-attachments/assets/8c337772-1314-4753-9b17-0acbcda6df35" />
 
+## Project Highlights
+
+* Analysed 1,000 simulated customer records
+* Calculated a 33.2% overall churn rate
+* Built interactive Power BI charts and slicers
+* Used DAX to create calculated measures
+* Identified patterns across contract type, tenure, internet service and satisfaction
+* Presented findings through an interactive dashboard
+
 
 ## Overview
 
